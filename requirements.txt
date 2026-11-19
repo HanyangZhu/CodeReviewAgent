@@ -1,0 +1,13 @@
+# Python 3.10+; LangChain 1.x agents and compatible API adapter
+langchain>=1.0,<2.0
+langchain-openai>=1.0,<2.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=7.0.0
+jupyterlab>=4.0.0
+
+# Environment variable management
+python-dotenv>=1.0,<2.0
+
+# ast and tokenize are part of the Python standard library
